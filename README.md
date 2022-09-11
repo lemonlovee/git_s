@@ -3,6 +3,8 @@
 ## POO Lab 0
 
 ### Task 1: Install a UNIX-based operating system.
+I installed Ubuntu alongside Windows. 
+
 The installation took all the sanity I had, so I hope this works as proof.
 
  ![image](https://user-images.githubusercontent.com/103103346/189530183-2c0c20f6-972f-4178-b963-ab76f2dea4fa.png)
